@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="puspendra_sahu">Puspendra sahu</string>
+    <string name="puspendrasahu073_gmail_com">puspendrasahu073@gmail.com</string>
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
+    <string name="email_us">Email Us</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="donate_us">Donate Us</string>
+    <string name="invite_friends">Invite Friends</string>
+    <string name="share">Share</string>
+    <string name="profile">Profile</string>
+    <string name="signout">SignOut</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="activity1">Activity1</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>

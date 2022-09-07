@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/nav_setting"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="@string/setting"/>
+
+    <item
+        android:id="@+id/nav_email"
+        android:icon="@drawable/ic_baseline_email_24"
+        android:title="@string/email_us"/>
+
+    <item
+        android:id="@+id/nav_rate"
+        android:title="@string/rate_us"
+        android:icon="@drawable/ic_baseline_rate_review_24"/>
+
+    <item
+        android:id="@+id/nav_donate"
+        android:icon="@drawable/ic_baseline_done_all_24"
+        android:title="@string/donate_us"/>
+
+
+    <item android:title="@string/invite_friends">
+
+        <menu>
+
+                <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/ic_baseline_share_24"
+                    android:title="@string/share"/>
+
+
+
+
+        </menu>
+
+
+
+    </item>
+
+    <item android:title="@string/profile">
+        <menu>
+
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_baseline_login_24"
+                android:title="@string/signout"/>
+
+            <item
+                android:id="@+id/nav_delete"
+                android:title="@string/delete_account"
+                android:icon="@drawable/ic_baseline_delete_forever_24"/>
+
+
+
+        </menu>
+
+
+
+    </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</menu>
